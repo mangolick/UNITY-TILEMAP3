@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trap
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 3804198427
+    locked: 0
+  - name: BGTILEMAP
+    uniqueID: 3021354065
+    locked: 0
+  - name: TERRAIN
+    uniqueID: 3494517117
+    locked: 0
+  - name: EXTRABGDEC
+    uniqueID: 3768522937
+    locked: 0
+  - name: FORLAMPS
+    uniqueID: 564312889
+    locked: 0
